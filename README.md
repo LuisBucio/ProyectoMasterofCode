@@ -1,3 +1,3 @@
-# ProyectoMasterofCode
+# ProyectoMastersofCode
 
-Proyecto Integrador de la plataforma MasterofCode
+Proyecto Integrador de la plataforma MastersofCode
